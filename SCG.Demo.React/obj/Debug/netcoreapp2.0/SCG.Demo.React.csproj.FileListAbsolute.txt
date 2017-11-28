@@ -1,0 +1,10 @@
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\bin\Debug\netcoreapp2.0\SCG.Demo.React.deps.json
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\bin\Debug\netcoreapp2.0\SCG.Demo.React.runtimeconfig.json
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\bin\Debug\netcoreapp2.0\SCG.Demo.React.runtimeconfig.dev.json
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\bin\Debug\netcoreapp2.0\SCG.Demo.React.dll
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\bin\Debug\netcoreapp2.0\SCG.Demo.React.pdb
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\obj\Debug\netcoreapp2.0\SCG.Demo.React.csproj.CoreCompileInputs.cache
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\obj\Debug\netcoreapp2.0\SCG.Demo.React.AssemblyInfoInputs.cache
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\obj\Debug\netcoreapp2.0\SCG.Demo.React.AssemblyInfo.cs
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\obj\Debug\netcoreapp2.0\SCG.Demo.React.dll
+C:\Users\bussaya.kaewprasong\Documents\Projects\Change\corereact\SCG.Demo.React\obj\Debug\netcoreapp2.0\SCG.Demo.React.pdb
